@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">SUGGEST_ME</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_situation_list">Situation</string>
+    <string name="title_activity_add_situation">Add Situation</string>
+
+    <string name="google_play_services_key"></string>
+    <string name="title_activity_create_pair">Create Pair</string>
+    <string name="tap_to_choose">Tap to choose</string>
+    <string name="title_activity_pick_task">Apps</string>
+
+    <string name="headphone_plugged">Headphones Plugged In</string>
+    <string name="headphone_unplugged">Headphones Plugged Off</string>
+
+    <string name="weather_hazy">Hazy</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_icy">Icy</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_stormy">Stormy</string>
+    <string name="weather_windy">Windy</string>
+
+    <string name="in_vehicle">In Vehicle</string>
+    <string name="on_bicycle">On Bicycle</string>
+    <string name="on_foot">On Foot</string>
+    <string name="running">Running</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="walking">Walking</string>
+    <string name="choose_location">CHOOSE LOCATION</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="create">CREATE</string>
+    <string name="situation_name">Situation Name</string>
+    <string name="no_name_warning">Please provide a SITUATION NAME to proceed</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="empty_layout_message">You don\'t have any activity preferences,to create it, click + and set your prefrences. </string>
+    <string name="warning_no_play_services">You need to have the play services updated to use this app</string>
+    <string name="activated_situations">ACTIVATED SITUATIONS</string>
+    <string name="loading_widget">Loading..</string>
+    <string name="tag_line">Automate your task</string>
+    <string name="share_text">What if i tell you that there\'s an app that would automatically open your favorite music player when you are outside and it\'s raining or when you are at your home, it automatically open your favorite news reader. For more such awesome situation-actions download Taskzy : https://play.google.com/store/apps/details?id=dvik.com.taskzy</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_on_playstore">Rate on Playstore</string>
+    <string name="add_button_content">Add a situation-action pair</string>
+    <string name="headphone_state">Headphone State</string>
+    <string name="weather">Weather</string>
+    <string name="location">Location</string>
+    <string name="user_activity">User Activity</string>
+    <string name="time">Time</string>
+    <string name="tap_to_add_headphone_state">Tap to add headphone state</string>
+    <string name="tap_to_add_weather_state">Tap to add weather state</string>
+    <string name="tap_to_pick_a_location">Tap to pick a location</string>
+    <string name="tap_to_add_user_activity">Tap to add user activity</string>
+    <string name="tap_to_add_time">Tap to add time</string>
+    <string name="cancel_adding_headphone_state">Cancel adding headphone state</string>
+    <string name="cancel_weather_state">Cancel weather state</string>
+    <string name="cancel_location">Cancel adding location state</string>
+    <string name="cancel_user_activity_state">Cancel user activity state</string>
+    <string name="cancel_time_state">Cancel time state</string>
+    <string name="add_app">Add app</string>
+    <string name="add_situation">Add situation</string>
+    <string name="title">Title</string>
+    <string name="headphone">Headphone</string>
+    <string name="activity">Activity</string>
+    <string name="situation_action_pair">Situation-Action Pair</string>
+    <string name="time_up">time_up</string>
+    <string name="app_name1">Finger</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+</resources>
